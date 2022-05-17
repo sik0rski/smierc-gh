@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/smierc-gh/static/css/main.073c9b0a.css",
-    "main.js": "/smierc-gh/static/js/main.e567a9c9.js",
+    "main.css": "/smierc-gh/static/css/main.ca25cff5.css",
+    "main.js": "/smierc-gh/static/js/main.5c185b45.js",
     "static/js/787.0de73500.chunk.js": "/smierc-gh/static/js/787.0de73500.chunk.js",
-    "static/media/logo.svg": "/smierc-gh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/books2.jpg": "/smierc-gh/static/media/books2.1231e254396cdde045cc.jpg",
+    "static/media/aleksy.jpeg": "/smierc-gh/static/media/aleksy.6f5fba5b6df584947746.jpeg",
+    "static/media/skarga.jpeg": "/smierc-gh/static/media/skarga.a4283dcfa456bd3b3dfd.jpeg",
+    "static/media/tristan.jpg": "/smierc-gh/static/media/tristan.d4f35a7e2c4224bdc414.jpg",
+    "static/media/polikarp.jpg": "/smierc-gh/static/media/polikarp.28838bd0466f02c4ad39.jpg",
+    "static/media/theme.jpg": "/smierc-gh/static/media/theme.54f7d8e7ad74760ccb9c.jpg",
+    "static/media/roland.jpg": "/smierc-gh/static/media/roland.119af602b1cd89799702.jpg",
+    "static/media/lament.jpg": "/smierc-gh/static/media/lament.59ef8167c4bd0020e640.jpg",
+    "static/media/boska.jpg": "/smierc-gh/static/media/boska.7859daa4e956aa62493e.jpg",
     "index.html": "/smierc-gh/index.html",
-    "main.073c9b0a.css.map": "/smierc-gh/static/css/main.073c9b0a.css.map",
-    "main.e567a9c9.js.map": "/smierc-gh/static/js/main.e567a9c9.js.map",
+    "main.ca25cff5.css.map": "/smierc-gh/static/css/main.ca25cff5.css.map",
+    "main.5c185b45.js.map": "/smierc-gh/static/js/main.5c185b45.js.map",
     "787.0de73500.chunk.js.map": "/smierc-gh/static/js/787.0de73500.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e567a9c9.js"
+    "static/css/main.ca25cff5.css",
+    "static/js/main.5c185b45.js"
   ]
 }
